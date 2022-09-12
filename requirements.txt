@@ -1,0 +1,5 @@
+opencv-contrib-python
+mss
+loguru
+websocket-client
+pypiwin32
