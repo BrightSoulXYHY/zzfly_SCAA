@@ -1,0 +1,1 @@
+%~dp0\Contest2.exe -ResX=1280 -ResY=720 -windowed
